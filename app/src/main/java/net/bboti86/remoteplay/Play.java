@@ -35,6 +35,10 @@ public class Play extends AppCompatActivity {
         return true;
     }
 
+    public void onPlayCllick(){
+
+    }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
